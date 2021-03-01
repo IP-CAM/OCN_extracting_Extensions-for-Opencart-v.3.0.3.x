@@ -1,12 +1,13 @@
 # extracting extensions
-Расширение для извлечения модулей из опенкарт.
+Extension for extracting modules from opencart.
 
-## Описание
-Позволяет выгрузить расширения из опенкарт по их названию с сохранением структуры. Так же выгружает стили и скрипты. В каталоге DIR_DOWNLOAD создается папка ocn_extracting_extensions, в которую складываются все извлеченные в архив файлы.
+## Description
+Allows you to unload extensions from opencart by their name while maintaining the structure. It also unloads styles and scripts. A folder called ocn_extracting_extensions is created in the DIR_DOWNLOAD directory, into which all extracted files are added to the archive.
 
-### Совместимость
+### Compatibility
 - OpenCart 3.0.3.x
 
-## Ссылки
-- [Ресурс на форуме](https://forum.opencart.name/resources/59/)
-- [Тема поддержки расширения](https://forum.opencart.name/threads/ocn-extracting-extensions.85/)
+## Links
+- [Resource on the forum] (https://forum.opencart.name/resources/59/)
+- [Extension Support Topic] (https://forum.opencart.name/threads/ocn-extracting-extensions.85/)
+- 
