@@ -10,4 +10,3 @@ Allows you to unload extensions from opencart by their name while maintaining th
 ## Links
 - [Resource on the forum] (https://forum.opencart.name/resources/59/)
 - [Extension Support Topic] (https://forum.opencart.name/threads/ocn-extracting-extensions.85/)
-- 
